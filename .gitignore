@@ -3,9 +3,11 @@
 target/*
 logs/
 projectFilesBackup/
+*/.idea/*
 .idea/
 *.iml
 */*.iml
+*.log
 *.class
 *.DS_Store
 
